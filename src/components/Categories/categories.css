@@ -1,0 +1,8 @@
+.categories-container {
+    display: flex;
+    justify-content: center;
+}
+
+.categorie {
+    margin: 1rem;
+}
